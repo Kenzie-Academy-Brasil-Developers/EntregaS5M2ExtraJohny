@@ -22,6 +22,11 @@
   line-height: 29px;
   color: var(--color-grey-7);
 }
+.profile_div img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
 
 @media (min-width: 768px) {
   .profile__header {
